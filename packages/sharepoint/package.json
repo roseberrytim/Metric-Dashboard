@@ -1,0 +1,12 @@
+{
+    "name": "sharepoint",
+    "type": "code",
+    "creator": "anonymous",
+    "summary": "SharePoint Utilities",
+    "detailedDescription": "Helper classes for connection to SharePoint WebServices",
+    "version": "1.0.0",
+    "compatVersion": "1.0.0",
+    "format": "1",
+    "local": true,
+    "requires": []
+}

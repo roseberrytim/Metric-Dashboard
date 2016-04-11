@@ -1,0 +1,7 @@
+{
+    "name": "Metric",	
+    "requires": [
+		"sharepoint"
+	],	
+    "id": "71e4eb47-233c-4d45-857d-4461b3a5e2cb"
+}
